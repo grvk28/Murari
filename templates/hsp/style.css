@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+{% load staticfiles %} <!-- New line -->
+
+<html>
+
+    <head>
+        <title>Gaurav</title>
+    </head>
+
+    <body>
+        <h1>This tutorial has been put together by Gaurav Kumar</h1>
+
+
+        <div>
+             <img src="{% static "images/v.jpg" %}"
+
+                 alt="Picture of Gaurav" /> <!-- New line -->
+         <div>
+
+    </body>
+
+</html>
