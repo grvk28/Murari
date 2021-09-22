@@ -18,7 +18,7 @@ cycler==0.10.0
 decorator==4.4.0
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
-Django==3.1.2
+Django==3.1.13
 django-autofixture==0.12.1
 django-bootstrap3==14.2.0
 django-crispy-forms==1.9.2
