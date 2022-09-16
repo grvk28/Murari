@@ -52,7 +52,7 @@ legacy==0.1.6
 louis==3.5.0
 lxml==4.6.2
 macaroonbakery==1.1.3
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==3.0.3
 mysqlclient==2.0.1
